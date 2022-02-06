@@ -68,7 +68,7 @@ Ne traînez pas, et prenez place aussi vite que possible dans l'une de nos navet
 <table>
 <tr>
 <th class=Image>
-<img alt="Un bon gros couscous" src='http://s3.static-footeo.com/uploads/lesmeldix/Medias/10__munzwt.jpg'>
+<img alt="Un bon gros couscous" src='couscou2.jpg'>
 </th>
 <th class=Texte>
 Services de l'hygiène !
@@ -108,7 +108,7 @@ Nous tenons à adresser nos plus sincères condoléances aux familles de ces deu
 	<th></th>	
 </tr>
 <tr>
-	<th class=Image_Commentaire><img alt='Un avatar trop couscous !' src='http://www.cohebergement.com/uploads/portraits/no_avatar.gif'></th>	
+	<th class=Image_Commentaire><img alt='Un avatar trop couscous !' src='no_avatar.gif'></th>	
 	<th class=Texte_Commentaire> Quelqu'un parle le morse ici ?</th>
 </tr>
 </table>
