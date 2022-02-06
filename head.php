@@ -3,5 +3,4 @@
 		<meta name="keywords" content="spacecouscous,la passion du couscous,starcouscous,bureau 713" />		
 		<meta name="description" content="Starcouscous, le meilleur couscous de l'univers !" />	
 		<link rel="stylesheet" href="couscous.css">	
-		<script src="http://code.jquery.com/jquery-latest.js"></script>
 		<script src="couscous.js"></script>
