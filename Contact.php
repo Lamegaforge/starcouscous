@@ -6,7 +6,7 @@
 <body>	
 
 <div id ='Couscous_Coeur'>
-<img src="starcouscousrender3" style="float: left; width: 377px; margin-left: -78px;">
+<img src="starcouscousrender3.png" style="float: left; width: 377px; margin-left: -78px;">
 <img src="rendercouscous4.png" style="width: 646px; margin-top: 50px; margin-left: -63px;" >
 <div style="clear:both"></div>
 <nav>
