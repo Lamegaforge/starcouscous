@@ -24,7 +24,7 @@
 <table>
 <tr>
 <th class=Image>
-<img alt="Un bon gros couscous" src='http://www.maxi-mag.fr/data/imgs/recipes/big651/couscous_135107385121925400.jpg'>
+<img alt="Un bon gros couscous" src='couscou.jpg'>
 </th>
 <th class=Texte>
 Un couscous acheté, un couscous acheté !
