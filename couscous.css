@@ -1,0 +1,100 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+html{
+	background-image: url('http://subtlepatterns.com/patterns/giftly.png');
+	background-repeat: repeat;
+	font-family: sans-serif;
+}
+#Couscous_Coeur{
+	width:900px;
+	margin:auto;
+}
+#Couscous_Coeur nav{
+	width:100%;
+    background: #EDC863;	
+}
+#Couscous_Coeur nav ul a{
+	color: #FFF;
+	font: 15px/36px 'HelveticaNeueMediumCondensed';
+	text-transform: uppercase;
+	display: table-cell;
+	padding: 2px 17px; 
+	text-decoration:none;
+}
+#In_Couscous_Coeur{
+		background-color: #F2F2F2;
+	padding: 30px;
+		color: #7A7B7A;
+	border-left: 4px solid #FFF;
+border-right: 4px solid #FFF;
+border-bottom: 4px solid white;	
+}
+#In_Couscous_Coeur p{
+	color: #EDC863;
+	margin-top: 18px;
+	font-weight: bold;
+}
+#News{
+	width:80%;
+	margin:auto;
+}
+#News table{
+	width:100%
+}
+#News .Image img{
+	width:100%;
+}
+#News .Image{
+	width: 30%;
+	vertical-align: top;
+}
+#News .Texte{
+	width: 70%;
+	text-align: left;
+	vertical-align: top;
+	padding: 3px 11px;
+	color:#EDC863;
+}
+#News .Texte p{
+	font-weight: 300;
+	line-height: 1.6;
+	color: #A7A7A7;
+	font-size: 14px;
+	margin-top: 3px;
+}
+#News .Top_Commentaires{
+	background-color: #EDC863;
+	color: #FFF;
+	padding: 5px 0px;
+	text-align: center;
+	font-weight: bold;
+	margin: 7px 0px 0px;
+	text-transform: uppercase;
+	font-size: 12px;
+} 
+#News .Commentaires{
+	background-color: #F2F2F2;
+}
+#News .Image_Commentaire{
+	width: 11%;
+	padding: 6px;
+}
+#News .Image_Commentaire img{
+	width: 100%;
+	border-radius: 157px;
+}
+#News .Texte_Commentaire{
+	width: 85%;
+	text-align: left;
+	padding: 0px 11px;
+	color: #A7A7A7;
+	font-size: 14px;
+}
+.Interclassement{
+	background-color: #EDC863;
+	height: 3px;
+	margin: 25px auto 40px;
+	width: 53%;
+}
